@@ -1,1 +1,1 @@
-Instruction: Create a file called test.txt with the content "Hello!" inside.
+Instruction: Create a file called test.txt with the content "This is a test." inside.
