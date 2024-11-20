@@ -1,1 +1,1 @@
-Instruction: Create a file called test.txt with the content "This is a test." inside.
+Instruction: Say "This is a test." in the chat.
